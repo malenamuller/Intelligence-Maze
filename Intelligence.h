@@ -20,26 +20,26 @@ typedef struct {
 }NextStep_s;
 
 //20 grados = 0.6981317 radianes
-typedef struct {
-	uint16_t Deg_0To20;
-	uint16_t Deg_21To40;
-	uint16_t Deg_41To60;
-	uint16_t Deg_61To80;
-	uint16_t Deg_81To100;
-	uint16_t Deg_101To120;
-	uint16_t Deg_121To140;
-	uint16_t Deg_141To160;
-	uint16_t Deg_161To180;
-	uint16_t Deg_181To200;
-
-	uint16_t Deg_201To220;
-	uint16_t Deg_221To240;
-	uint16_t Deg_241To260;
-	uint16_t Deg_261To280;
-	uint16_t Deg_281To300;
-	uint16_t Deg_301To320;
-	uint16_t Deg_321To340;
-	uint16_t Deg_341To359;
+//typedef struct {
+//	uint16_t Deg_0To20;
+//	uint16_t Deg_21To40;
+//	uint16_t Deg_41To60;
+//	uint16_t Deg_61To80;
+//	uint16_t Deg_81To100;
+//	uint16_t Deg_101To120;
+//	uint16_t Deg_121To140;
+//	uint16_t Deg_141To160;
+//	uint16_t Deg_161To180;
+//	uint16_t Deg_181To200;
+//
+//	uint16_t Deg_201To220;
+//	uint16_t Deg_221To240;
+//	uint16_t Deg_241To260;
+//	uint16_t Deg_261To280;
+//	uint16_t Deg_281To300;
+//	uint16_t Deg_301To320;
+//	uint16_t Deg_321To340;
+//	uint16_t Deg_341To359;
  //HACER HASTA 360grados
 
 }Directions_s;
